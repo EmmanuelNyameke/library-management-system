@@ -1,0 +1,16 @@
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\bin\Debug\LibraryGUI.exe.config
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\bin\Debug\LibraryGUI.exe
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\bin\Debug\LibraryGUI.pdb
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\bin\Debug\LibraryManagementSystem.exe
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.csprojResolveAssemblyReference.cache
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.BorrowReturn.resources
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.FirstGUI.resources
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.MainLibraryGUI.resources
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.ManageBooks.resources
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.ManageUsers.resources
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.Properties.Resources.resources
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.csproj.GenerateResource.Cache
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.exe
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.pdb
+C:\Users\HELLO\onedrive\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryGUI\obj\Debug\LibraryGUI.GenerateReport.resources
